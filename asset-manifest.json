@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/suresh/static/css/main.f855e6bc.css",
+    "main.js": "/suresh/static/js/main.77582e67.js",
+    "static/js/592.99b8e6eb.chunk.js": "/suresh/static/js/592.99b8e6eb.chunk.js",
+    "static/media/logo.svg": "/suresh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/suresh/index.html",
+    "main.f855e6bc.css.map": "/suresh/static/css/main.f855e6bc.css.map",
+    "main.77582e67.js.map": "/suresh/static/js/main.77582e67.js.map",
+    "592.99b8e6eb.chunk.js.map": "/suresh/static/js/592.99b8e6eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.77582e67.js"
+  ]
+}
